@@ -33,7 +33,7 @@ Learning Rate : The learning rate is perhaps the most important hyperparameter. 
 Epochs :  Number of epochs is the number of times the whole training data is shown to the network while training.
           Increase the number of epochs until the validation accuracy starts decreasing even when training accuracy is increasing(overfitting).
 
-# Evaluation :-
+# Evaluation Metrics :-
 To find the accuracy on test and train data we use accuracy_score function from sklearn.metrics.
 
                     Accuracy = No.of Correct Predictions/Total no of predictions
