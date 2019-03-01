@@ -37,3 +37,5 @@ Epochs :  Number of epochs is the number of times the whole training data is sho
 To find the accuracy on test and train data we use accuracy_score function from sklearn.metrics.
 
                     Accuracy = No.of Correct Predictions/Total no of predictions
+                    
+ Scored 91.5% accuracy on public leaderboard and 79% accuracy on private leaderboard
